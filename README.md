@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center">
-<p align="center">
+
 <h3>💻 tech 💻</h3>
 <div>
         (still learning)
