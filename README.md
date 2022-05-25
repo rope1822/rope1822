@@ -1,5 +1,5 @@
 ### <h1>환영합니다 👋</h1>
-
+<br/>
 <!--
 **rope1822/rope1822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=EunHo Jeon&fontSize=65&fontColor=2E2E2E&animation=twinkling) 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=EunHo Jeon&fontSize=70)
 
 <div align="center">
 
@@ -33,4 +32,3 @@ Here are some ideas to get you started:
     <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> 
    
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimasill&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
