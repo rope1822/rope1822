@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <br>
  
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=유저이름)](https://solved.ac/유저이름)
+rope1822](http://mazassumnida.wtf/api/v2/generate_badge?boj=유저이름)](https://solved.ac/rope1822)
 
 <br>
 <hr>
