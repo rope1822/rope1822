@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=EunHo-Jeon&fontSize=70)
+
 <div align="center">
         
 <h3>💻 tech 💻</h3>
@@ -26,13 +28,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-the-badge&logo=C++&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
-
-<br>
-<hr>
-<br>
- 
-[![Solved.ac
-rope1822](http://mazassumnida.wtf/api/v2/generate_badge?boj=rope1822)](https://solved.ac/rope1822)
 
 <br>
 <hr>
