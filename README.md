@@ -23,9 +23,3 @@ Here are some ideas to get you started:
     (still learning)
 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-
-
-## License
-
-KIT(Kumoh Institute Technology) 2017.03 ~
-</div>
