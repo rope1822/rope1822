@@ -1,5 +1,7 @@
 ### <h1>환영합니다 👋</h1>
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=EunHo Jeon&fontSize=65&fontColor=2E2E2E&animation=twinkling) 
+
 <!--
 **rope1822/rope1822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=EunHo Jeon&fontSize=65&fontColor=2E2E2E&animation=twinkling) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=EunHo 
 
 <div align="center">
 
