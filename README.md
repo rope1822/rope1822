@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
 
-
+        
 <h3>💻 tech 💻</h3>
 <div>
         (still learning)
