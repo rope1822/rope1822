@@ -17,11 +17,8 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-
-    (still learning)
-<h3 align="center"><b>💻 tech 💻</b></h3>
 <p align="center">
-
+<h3>💻 tech 💻</h3>
 <div>
         (still learning)
     </br>
