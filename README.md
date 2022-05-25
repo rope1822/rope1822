@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ##  💻 tech 💻
 
-(still learning)
+(still learning) <br/>
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/Joowon0220/TODO-List) [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/Joowon0220/fullPage) [![css](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://github.com/Joowon0220/svelte)
 <br>
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
